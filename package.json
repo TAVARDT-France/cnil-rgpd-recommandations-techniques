@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-fr/cnil-rgpd-audit",
+  "version": "1.0.0",
+  "description": "Cadre technique d'audit de conformite CNIL et RGPD en France",
+  "license": "MIT",
+  "author": "TAVARDT France (https://ag.tavardt.com/fr/)"
+}
