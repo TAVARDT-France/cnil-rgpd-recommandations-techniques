@@ -1,4 +1,4 @@
-# Cadre d'Audit Technique & Recommandations CNIL / RGPD | TAVARDT France
+# Cadre d'Audit Technique & Recommandations CNIL / RGPD
 
 [![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Outils TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20de%20Diagnostic-5b3cf5.svg)](https://tools.tavardt.com/fr/)
@@ -41,3 +41,7 @@ bash scripts/audit-cnil.sh -cible entreprise.fr
 * Suite Complète de Diagnostic TAVARDT
 
 Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
