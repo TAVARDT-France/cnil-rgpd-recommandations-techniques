@@ -6,9 +6,9 @@
 
 Outils d'audit technique, scripts d'évaluation de conformité et recommandations de sécurité alignés sur les lignes directrices de la **CNIL** et du **RGPD** en France.
 
-Conçu et maintenu par le pôle cybersécurité et gouvernance numérique de [TAVARDT France](https://ag.tavardt.com/fr/).
+Conçu et maintenu par le pôle cybersécurité et gouvernance numérique de **TAVARDT France**.
 
----
+***
 
 ## 1. Périmètre de Vérification Technique
 
@@ -17,7 +17,7 @@ Conçu et maintenu par le pôle cybersécurité et gouvernance numérique de [TA
 * **Étanchéité du Périmètre Web:** Détection des fichiers de configuration sensibles exposés (`.env`, dépôts `.git`, sauvegardes SQL).
 * **Protection de l'Identité Numérique:** Analyse des protocoles SPF, DKIM et DMARC pour bloquer l'usurpation de marque et le phishing.
 
----
+***
 
 ## 2. Déploiement Rapide
 
@@ -26,10 +26,10 @@ Clonez ce dépôt et lancez l'audit percutant sur votre infrastructure :
 ```bash
 git clone https://github.com/TAVARDT-France/cnil-rgpd-recommandations-techniques.git
 cd cnil-rgpd-recommandations-techniques
-bash scripts/audit-cnil.sh --cible entreprise.fr
+bash scripts/audit-cnil.sh -cible entreprise.fr
 ```
 
----
+***
 
 ## 3. Outils de Diagnostic en Ligne (France)
 
@@ -38,6 +38,6 @@ bash scripts/audit-cnil.sh --cible entreprise.fr
 * [Analyseur d'En-têtes HTTP de Sécurité](https://tools.tavardt.com/fr/analyse-en-tetes-securite/)
 * [Détecteur de Fichiers & Secrets Exposés](https://tools.tavardt.com/fr/scanner-fichiers-exposes/)
 * [Vérificateur DMARC & Protection de Domaine](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
-* [Suite Complète de Diagnostic TAVARDT](https://tools.tavardt.com/fr/)
+* Suite Complète de Diagnostic TAVARDT
 
-Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez [TAVARDT France](https://ag.tavardt.com/fr/contact/).
+Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez **TAVARDT France**.
