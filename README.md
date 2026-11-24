@@ -6,7 +6,7 @@
 
 Outils d'audit technique, scripts d'évaluation de conformité et recommandations de sécurité alignés sur les lignes directrices de la **CNIL** et du **RGPD** en France.
 
-Conçu et maintenu par le pôle cybersécurité et gouvernance numérique de **TAVARDT France**.
+Conçu et maintenu par le pôle cybersécurité et gouvernance numérique de **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ bash scripts/audit-cnil.sh -cible entreprise.fr
 * [Vérificateur DMARC & Protection de Domaine](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
 * Suite Complète de Diagnostic TAVARDT
 
-Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez **TAVARDT France**.
+Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez **TAVARDT**.
 
 ***
 
