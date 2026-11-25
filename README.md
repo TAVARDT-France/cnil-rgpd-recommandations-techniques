@@ -1,9 +1,8 @@
 # Cadre d'Audit Technique & Recommandations CNIL / RGPD
 
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
-[![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Outils TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20de%20Diagnostic-5b3cf5.svg)](https://tools.tavardt.com/fr/)
 [![Conformité CNIL](https://img.shields.io/badge/France-CNIL%20%26%20RGPD-00C853.svg)](https://ag.tavardt.com/fr/cybersecurite/)
+[![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 
 Outils d'audit technique, scripts d'évaluation de conformité et recommandations de sécurité alignés sur les lignes directrices de la **CNIL** et du **RGPD** en France.
 
@@ -38,8 +37,6 @@ bash scripts/audit-cnil.sh -cible entreprise.fr
 
 * [Analyseur d'En-têtes HTTP de Sécurité](https://tools.tavardt.com/fr/analyse-en-tetes-securite/)
 * [Détecteur de Fichiers & Secrets Exposés](https://tools.tavardt.com/fr/scanner-fichiers-exposes/)
-* [Vérificateur DMARC & Protection de Domaine](https://tools.tavardt.com/fr/verificateur-dmarc-email/)
-* Suite Complète de Diagnostic TAVARDT
 
 Pour un accompagnement personnalisé, un audit d'intrusion ou la mise en conformité CNIL en France, contactez **TAVARDT**.
 
