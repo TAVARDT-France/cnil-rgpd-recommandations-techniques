@@ -1,5 +1,6 @@
 # Cadre d'Audit Technique & Recommandations CNIL / RGPD
 
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 [![Outils TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20de%20Diagnostic-5b3cf5.svg)](https://tools.tavardt.com/fr/)
 [![Conformité CNIL](https://img.shields.io/badge/France-CNIL%20%26%20RGPD-00C853.svg)](https://ag.tavardt.com/fr/cybersecurite/)
