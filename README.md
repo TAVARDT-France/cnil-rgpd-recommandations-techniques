@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/fr/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Cadre d'Audit Technique & Recommandations CNIL / RGPD
 
 [![Outils TAVARDT](https://img.shields.io/badge/TAVARDT-Suite%20de%20Diagnostic-5b3cf5.svg)](https://tools.tavardt.com/fr/)
